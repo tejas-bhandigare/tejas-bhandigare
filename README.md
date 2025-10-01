@@ -56,4 +56,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tejas-bhandigare&show_icons=true&locale=en" alt="tejas-bhandigare" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-bhandigare&" alt="tejas-bhandigare" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-bhandigare" alt="tejas-bhandigare" /></p>
