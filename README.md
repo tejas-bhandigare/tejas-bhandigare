@@ -9,71 +9,36 @@
 ---
 
 ### 👨‍💻 About Me
-- 🎓 **Master of Computer Applications (MCA)** student with a focus on high-level software architecture.
-- 🚀 Passionate about **Clean Code**, **SOLID Principles**, and Modular Microservices.
-- 🛠️ Currently specializing in **Java Full Stack Development** and robust backend ecosystems.
-- 📫 Professional reach: **tejasbhandigare@gmail.com**
-
-### 🛠️ Tech Stack & Ecosystem
-
-**Backend & Architecture**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-</p>
-
-**Frontend & UI/UX**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-</p>
-
-**Databases & Persistence**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-</p>
+- 🎓 **Master of Computer Applications (MCA)** student focused on high-level architecture.
+- 🚀 Specialized in **Clean Code**, **SOLID Principles**, and Modular Microservices.
+- 📫 Reach me at: **tejasbhandigare@gmail.com**
 
 ---
 
-### 🚀 Featured Projects
-- **FileSqueezely**: A high-performance file compression engine built with Spring Boot and React.
-- **E-Commerce Backend**: Production-ready RESTful API featuring JWT security, Stripe integration, and complex relational mapping.
-- **Vedant Education App**: Scalable mobile learning solution utilizing Flutter and Supabase.
+### 🛠️ Specialized Ecosystem
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Backend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring boot" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="30" height="30"/> |
+| **Frontend** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> |
+| **Database** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> |
+| **Connect** | <a href="https://www.linkedin.com/in/tejas-bhandigare-54a1a1246/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="20" width="25" /></a> <a href="https://instagram.com/teja_bhandigare" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="20" width="25" /></a> <a href="https://www.youtube.com/c/teja bhandigare" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="20" width="25" /></a> |
 
 ---
 
-### 📊 GitHub Insights
+### 📊 Performance Metrics
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-bhandigare&theme=flat&column=7" alt="tejas-bhandigare" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-bhandigare&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="tejas-bhandigare" />
-  <img src="https://github-readme-stats.vercel.app/api?username=tejas-bhandigare&show_icons=true&locale=en&theme=vision-friendly-dark" alt="tejas-bhandigare" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejas-bhandigare&theme=flat&column=7" alt="trophies" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-bhandigare&theme=vision-friendly-dark" alt="tejas-bhandigare" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tejas-bhandigare&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" alt="top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tejas-bhandigare&show_icons=true&locale=en&theme=vision-friendly-dark" alt="stats" />
 </p>
 
----
-
-### 🌐 Connect With Me
-<p align="left">
-<a href="https://www.linkedin.com/in/tejas-bhandigare-54a1a1246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tejas bhandigare" height="30" width="40" /></a>
-<a href="https://fb.com/tejas bhandigare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tejas bhandigare" height="30" width="40" /></a>
-<a href="https://instagram.com/teja_bhandigare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teja_bhandigare" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/teja bhandigare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="teja bhandigare" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tejas-bhandigare&theme=vision-friendly-dark" alt="streak" />
 </p>
-
-
-
 
 
 
